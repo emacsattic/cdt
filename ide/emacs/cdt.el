@@ -2,6 +2,8 @@
 ;;;  derived from jdb mode in emacs gud.el
 ;;;  New portions: Copyright (C) 2010 George Jahad
 ;;;
+;;; License: GPL
+;;;
 ;;; This file is licensed under the terms of the GNU General Public
 ;;; License as distributed with Emacs (press C-h C-c to view it).
 ;;;
